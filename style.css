@@ -1,10 +1,12 @@
 body {
-  background-color: #EE1726;
+  background-color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 
 #bar {
-  background-color: #e25f21;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 #container {
@@ -20,4 +22,6 @@ body {
   padding-top: 20%;
   margin: 0% auto;
   border-radius: 25%;
+  border-width: 3px;
+  border-color: "black";
 }
